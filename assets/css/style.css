@@ -44,6 +44,7 @@ h1 {
 .footer{
     background-color: honeydew;
     position: relative;
+    height: 300px;
 }
     
 .footer:before{
@@ -51,7 +52,7 @@ h1 {
     display: block;
     position: absolute;
     width: 100%;
-    top:0;
+    top:20px;
     height: 8px;
     background-color: black; 
 }
