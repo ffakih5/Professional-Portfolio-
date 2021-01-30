@@ -1,4 +1,62 @@
+* {
+    box-sizing: border-box;
+    margin:0 
+    padding 0;
+}
+body{
+    background-image: url(https://image.freepik.com/free-photo/ragdoll-cat-small-kitten-portrait-white-background_1160-1388.jpg);
+}
+.navbar{ 
+    background-color: #eee;
+    
+}
+.navbar-brand{
+    color: hotpink; 
+    background-color:honeydew;
+
+}
+h1 {
+    color: hotpink; 
+    background-color:honeydew;
+}
+
+.img-fluid
+{
+    max-width: 100%;
+    height : auto;
+    float: left;  
+    margin: 5px; 
+}
+
+.text{ 
+    text-align: justify; 
+    font-size: 16px; 
+    font-family: 'Amatic SC', cursive;
+} 
+
+.button{
+    background-color: hotpink;
+}
+.image{
+    float: center;
+}
+.footer{
+    background-color: honeydew;
+    position: relative;
+}
+    
+.footer:before{
+    content:"";
+    display: block;
+    position: absolute;
+    width: 100%;
+    top:0;
+    height: 8px;
+    background-color: black; 
+}
+.Sticky{
+    color: hotpink;
+}
 
 
 
-/* google fonts css = font-family: 'Amatic SC', cursive; */ 
