@@ -12,12 +12,12 @@ body{
     
 }
 .navbar-brand{
-    color: hotpink; 
+    color: hsl(39, 87%, 63%); 
     background-color:honeydew;
 
 }
 h1 {
-    color: hotpink; 
+    color: hsl(39, 87%, 63%); 
     background-color:honeydew;
 }
 
@@ -36,7 +36,7 @@ h1 {
 } 
 
 .button{
-    background-color: hotpink;
+    background-color: black;
 }
 .image{
     float: center;
@@ -57,7 +57,7 @@ h1 {
     background-color: black; 
 }
 .Sticky{
-    color: hotpink;
+    color: hsl(39, 87%, 63%);
 }
 
 
