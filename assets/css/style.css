@@ -14,12 +14,11 @@ body{
 }
 .navbar-brand{
     color: hsl(39, 87%, 63%); 
-    background-color:honeydew;
+    
 
 }
 h1 {
-    color: hsl(39, 87%, 63%); 
-    background-color:honeydew;
+    color: black;
 }
 
 .img-fluid
@@ -37,7 +36,6 @@ h1 {
     float: center;
 }
 .footer{
-    background-color: honeydew;
     position: relative;
     height: 300px;
 }
@@ -52,7 +50,7 @@ h1 {
     background-color: black; 
 }
 .Sticky{
-    color: hsl(39, 87%, 63%);
+    color: black;
 }
 
 @media (min-width: 576px)
