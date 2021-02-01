@@ -5,6 +5,7 @@
 }
 body{
     background-image: url(https://image.freepik.com/free-photo/ragdoll-cat-small-kitten-portrait-white-background_1160-1388.jpg);
+    font-family: 'Nanum Gothic', sans-serif;;
     font-size: 20px;
 }
 .navbar{ 
@@ -28,12 +29,6 @@ h1 {
     float: left;  
     margin: 5px; 
 }
-
-.text{ 
-    text-align: justify; 
-    font-size: 20px; 
-    font-family: 'Amatic SC', cursive;
-} 
 
 .button{
     background-color: black;
@@ -60,5 +55,4 @@ h1 {
     color: hsl(39, 87%, 63%);
 }
 
-
-
+@media (min-width: 576px)
