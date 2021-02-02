@@ -3,39 +3,54 @@
     margin:0 
     padding 0;
 }
-body{
-    background-image: url(https://image.freepik.com/free-photo/ragdoll-cat-small-kitten-portrait-white-background_1160-1388.jpg);
-    font-family: 'Nanum Gothic', sans-serif;;
-    font-size: 20px;
-}
+
 .navbar{ 
     background-color: #eee;
+    background-image: url("https://image.freepik.com/free-photo/ragdoll-cat-small-kitten-portrait-white-background_1160-1388.jpg");
+    
     
 }
 .navbar-brand{
     color: hsl(39, 87%, 63%); 
-    
 
 }
+
+body{
+    background-image: url("https://image.freepik.com/free-photo/ragdoll-cat-small-kitten-portrait-white-background_1160-1388.jpg");
+    font-family: 'Nanum Gothic', sans-serif;
+    font-size: 20px;
+}
+.button{
+    text-align: center;
+}
+
 h1 {
     color: black;
 }
 
-.img-fluid
-{
-    max-width: 100%;
-    height : auto;
-    float: left;  
-    margin: 5px; 
+
+footer {
+    width: 100%;
+    background-image: url("https://image.freepik.com/free-photo/ragdoll-cat-small-kitten-portrait-white-background_1160-1388.jpg");
+    padding: 100px 0;
 }
 
-.button{
-    background-color: black;
+.fixed-bottom {
+    z-index: -1;
 }
-.image{
-    float: center;
+
+.brand-footer {
+    color: black;
+    font-family: 'Nanum Gothic', sans-serif;
+    font-size: 36px;
+    font-weight: 500;
+    margin-bottom: 30px;
 }
-.footer{
+
+.brand-footer:hover {
+    transition: .4s ease;
+}
+/* .footer{
     position: relative;
     height: 300px;
 }
@@ -52,5 +67,6 @@ h1 {
 .Sticky{
     color: black;
 }
+ */
 
 @media (min-width: 576px)

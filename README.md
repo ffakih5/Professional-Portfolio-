@@ -1,7 +1,7 @@
 # Professional-Portfolio-
 This portfolio is to showcase the work I have completed as a web development student.
 
-[Check it out here](https://ffakih5.github.io/Professional-Portfolio-/.)
+[Check it out here 💫](https://ffakih5.github.io/Professional-Portfolio-/.)
 
 ## Table of contents
 - Motivation
