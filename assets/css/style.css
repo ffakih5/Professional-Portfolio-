@@ -9,10 +9,6 @@
     background-image: url("https://image.freepik.com/free-photo/ragdoll-cat-small-kitten-portrait-white-background_1160-1388.jpg");
 }
 
-.navbar-brand{
-    color: hsl(39, 87%, 63%); 
-
-}
 .heading-hero{
     padding-bottom: 30px;
     text-align: center;
@@ -27,7 +23,7 @@ body{
 .img-fluid
 {
     max-width: 100;
-    height : 600px;
+    height : 500px;
     float: left;  
     margin: 5px; 
     border-style: solid;
@@ -51,6 +47,7 @@ h2{
 
 .fixed-bottom {
     position: relative;
+    text-align:center;
 }
 
 .brand-footer {
