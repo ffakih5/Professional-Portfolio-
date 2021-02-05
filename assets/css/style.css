@@ -46,6 +46,11 @@ h2{
     color: rgba(231, 231, 192, 0.911);
 }
 
+.card-image{
+    max-width: 50%;
+    max-height: 50%;
+}
+
 .fixed-bottom {
     position: relative;
 }
