@@ -3,6 +3,8 @@ This portfolio is to showcase the work I have completed as a web development stu
 
 [Check it out here 💫](https://ffakih5.github.io/Professional-Portfolio-/.)
 
+![Professional Portfolio](assets/images/Professional-Portfolio.png)
+
 ## Table of contents
 - Motivation
 - Process
