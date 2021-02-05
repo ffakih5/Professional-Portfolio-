@@ -33,21 +33,28 @@ body{
     border-style: solid;
     border-color: black;
 }
-.home-page-text{
-    text-align: center;
-    font-size: 20px;
-}
-h2{
-    margin-top: 10px;
-    margin-bottom: 20px;
-}
-@media (min-width: 768px)
+
+h1
 {
-    h1 {
     color: black;
 }
+
+h2{
+    margin-top: 60px;
+    margin-bottom: 20px;
+    font-weight: 100;
 }
+.btn-info{
+    background-color:rgba(231, 231, 192, 0.911);
+    margin-top: 40px;
+}
+
+.fixed-bottom {
+    position: relative;
+}
+
 .brand-footer {
+    color: rgba(231, 231, 192, 0.911);
     font-family: 'Nanum Gothic', sans-serif;
     font-size: 36px;
     font-weight: 500;
@@ -55,18 +62,12 @@ h2{
 }
 
 .brand-footer:hover {
-    transition: .4s ease;
+    color: #FFFFFFc5;
+    transition: .3s ease;
 }
- .footer{
-    position: relative;
-    height: 300px;
-}
-    
-.footer:before{
-    content:"";
-    display: block;
-    position: absolute;
-    width: 100%;
-    top:20px;
-    height: 8px; 
-}
+
+@media (min-width: 768px){};
+
+
+
+
