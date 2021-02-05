@@ -41,9 +41,9 @@ h2{
     font-weight: 100;
 }
 
-.btn-info{
-    background-color:rgba(231, 231, 192, 0.911);
+.btn-dark{
     margin-top: 40px;
+    color: rgba(231, 231, 192, 0.911);
 }
 
 .fixed-bottom {
