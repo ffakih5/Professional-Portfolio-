@@ -16,12 +16,9 @@
 }
 
 body{
-    background-image: url("https://image.freepik.com/free-photo/ragdoll-cat-small-kitten-portrait-white-background_1160-1388.jpg");
+    background-image: url(https://image.freepik.com/free-photo/ragdoll-cat-small-kitten-portrait-white-background_1160-1388.jpg);
     font-family: 'Nanum Gothic', sans-serif;
     font-size: 20px;
-}
-.button{
-    
 }
 
 h1 {
