@@ -3,7 +3,7 @@ As a student working toward a career in Full-Stack Web Development I have built 
 
 [Check it out here 💫](https://ffakih5.github.io/Professional-Portfolio-/.)
 
-![Professional Portfolio](assets/images/Professional-Portfolio.png)
+![Professional Portfolio](assets/images/readme.png)
 
 ## Table of contents
 - Motivation
