@@ -11,6 +11,7 @@
 
 .heading-hero{
     padding-bottom: 30px;
+    font-weight: bold;
     text-align: center;
     background-color: rgba(231, 231, 192, 0.911);
 }
@@ -21,8 +22,26 @@ body{
     font-weight: 300;
 }
 
+.index{
+    font-weight: bold;
+}
+
+.about{
+    font-weight: bold;
+}
+
 p {
     text-align: center;
+}
+
+.name{
+    font-weight: bold;
+
+}
+.demo{
+    width: 30%;
+    height: 25vh;
+    object-fit: cover;
 }
 
 .img-fluid
