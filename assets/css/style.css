@@ -65,9 +65,9 @@ h2{
     font-weight: 100;
 }
 
-.btn-dark{
+.btn-secondary{
     margin-top: 40px;
-    color: rgba(231, 231, 192, 0.911);
+    color: rgba(231, 192, 218, 0.911);
 }
 
 .card-image{
